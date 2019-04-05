@@ -1,0 +1,19 @@
+.heading{
+    text-align: center;
+
+}
+button{
+    position: absolute;
+    top:50%;
+    left:50%;
+    transform: translate(-50%,-50%);
+    padding-left:50px;
+    padding-right:50px;
+}
+a{
+    color:white;
+    
+}
+a:hover{
+    text-decoration: none;
+}
